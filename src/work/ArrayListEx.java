@@ -13,7 +13,7 @@ public class ArrayListEx {
 //list.add(20);
 //list.add(300);
 //list.add(53);
-//list.add(77);
+//list.add(77);`
 	for(int i = 0;i<5;i++)
 	{
 		list.add(sc.nextInt());
