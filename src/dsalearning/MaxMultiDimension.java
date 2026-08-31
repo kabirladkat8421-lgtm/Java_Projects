@@ -14,9 +14,9 @@ public class MaxMultiDimension {
 				if (arr[row][col] > max) {
 					max = arr[row][col];
 				}
-			
+
 			}
-		
+
 		}
 		return max;
 	}
