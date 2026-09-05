@@ -1,4 +1,4 @@
-package dsalearning;
+package linearsearch;
 
 public class MaxMultiDimension {
 	public static void main(String[] args) {

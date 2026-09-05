@@ -1,4 +1,4 @@
-package dsalearning;
+package linearsearch;
 
 import java.util.Arrays;
 

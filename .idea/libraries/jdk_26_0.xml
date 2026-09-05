@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdk-26.0">
+    <CLASSES>
+      <root url="file://$JAVA_HOME$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

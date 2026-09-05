@@ -1,4 +1,4 @@
-package dsalearning;
+package linearsearch;
 
 public class MaxWealth {
 

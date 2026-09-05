@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" build-on-make="true" name="Java_Projects:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/artifacts/Java_Projects_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Java_Projects/javaeeApplication/javaEEApplication" />
+      <element id="library" level="project" name="jdk-26.0" />
+    </root>
+  </artifact>
+</component>
