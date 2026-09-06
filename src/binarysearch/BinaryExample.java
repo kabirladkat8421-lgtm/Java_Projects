@@ -5,7 +5,7 @@ import org.w3c.dom.ls.LSOutput;
 public class BinaryExample {
     static void main(String[] args) {
 int[]arr={10,20,30,40,55,63,75,81,91,103};
-int target=555;//it's shadowing the binarySearch target
+int target=55;//it's shadowing the binarySearch target
         int ans=binarySearch(arr,target);
         System.out.println(ans);
     }
