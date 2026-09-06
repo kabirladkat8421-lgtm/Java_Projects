@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ad08317-5b99-409a-9355-eaeeea813c34" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../binarysearch/OrderAgnosticBS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../binarysearch/OrderAgnosticBS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsalearning/EvenDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsalearning/FindMinNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsalearning/LinearExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsalearning/MaxMultiDimension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsalearning/MaxWealth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsalearning/RangeSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsalearning/Search2dArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsalearning/StringSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Projects/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_Projects/binarysearch/OrderAgnosticBS.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kabirladkat8421-lgtm"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kabirladkat8421-lgtm/BinaryExample.java.git",
+    "accountId": "3324f9b8-c7f5-43f9-94da-7fdc8c4fa36e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3IxeCtUtLRAz7L9foMQgRkUxG3n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Material/Program/Java_Projects/src/work",
+    "settings.editor.selected.configurable": "preferences.customizations"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ad08317-5b99-409a-9355-eaeeea813c34" name="Changes" comment="" />
+      <created>1788710523366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788710523366</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
