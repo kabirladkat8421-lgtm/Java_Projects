@@ -6,7 +6,7 @@ public class OrderAgnosticBS {
         int[] arr = {99, 80, 75, 22, 11, 10, 5, 2, -3};
         int target = 22;
         int ans = orderAgnostic(arr, target);
-        System.out.println(ans);
+        System.out.println(ans)
     }
     static int orderAgnostic(int[]arr,int target)
     {
