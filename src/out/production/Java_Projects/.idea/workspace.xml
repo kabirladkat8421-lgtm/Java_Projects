@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a729766e-39ec-4bbb-bd62-ee9ba4d0975a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Projects/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Projects/work/Finder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/Finder.java" afterDir="false" />
+    <list default="true" id="40cf4b1f-968d-4de1-8b92-7ad9a8f81ef6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/binarysearch/BinaryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/BinaryExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/binarysearch/OrderAgnosticBS.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/OrderAgnosticBS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Projects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Projects/binarysearch/BinaryExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Projects/binarysearch/BinaryExample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_Projects/binarysearch/OrderAgnosticBS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Projects/binarysearch/OrderAgnosticBS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,41 +26,67 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kabirladkat8421-lgtm&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kabirladkat8421-lgtm/BinaryExample.java.git&quot;,
+    &quot;accountId&quot;: &quot;3324f9b8-c7f5-43f9-94da-7fdc8c4fa36e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="3ItqPQY6YhdNhXqpFiychU1c9me" />
+  <component name="ProjectId" id="3IxCct9sxv44UqgBsJlJD9KcOcf" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Finder.executor": "Debug",
-    "Application.OrderAgnosticBS.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ceiling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindCharNext.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FindFirstAndLast.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Floor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetTotalOftargate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderAgnosticBS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Material/Program/Java_Projects/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Finder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="work.Finder" />
+}</component>
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work.Example" />
       <module name="Java_Projects" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderAgnosticBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarysearch.OrderAgnosticBS" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarysearch.Reverse" />
       <module name="Java_Projects" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OrderAgnosticBS" />
-        <item itemvalue="Application.Finder" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.Reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -101,11 +128,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a729766e-39ec-4bbb-bd62-ee9ba4d0975a" name="Changes" comment="" />
-      <created>1788594193119</created>
+      <changelist id="40cf4b1f-968d-4de1-8b92-7ad9a8f81ef6" name="Changes" comment="" />
+      <created>1788696916137</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1788594193119</updated>
+      <updated>1788696916137</updated>
     </task>
     <servers />
   </component>
@@ -115,21 +142,36 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/binarysearch/Ceiling.java</url>
+          <line>21</line>
+          <placement>INTER_LINE</placement>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/work/Finder.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/work/Example.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/binarysearch/FindFirstAndLast.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/work/Finder.java</url>
-          <line>5</line>
-          <properties class="work.Finder" method="main">
+          <url>file://$PROJECT_DIR$/binarysearch/FindCharNext.java</url>
+          <line>3</line>
+          <properties class="binarysearch.FindCharNext" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
