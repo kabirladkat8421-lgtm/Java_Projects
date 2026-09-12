@@ -59,9 +59,11 @@
     "Application.EvenDigit.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.FindCharNext.executor": "Debug",
-    "Application.FindFirstAndLast.executor": "Debug",
+    "Application.FindFirstAndLast.executor": "Run",
     "Application.Floor.executor": "Run",
     "Application.GetTotalOftargate.executor": "Run",
+    "Application.InfiniteArrayFindElement.executor": "Run",
+    "Application.Mountain.executor": "Run",
     "Application.OrderAgnosticBS.executor": "Run",
     "Application.Reverse.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -84,7 +86,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example">
+  <component name="RunManager">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="work.Example" />
       <module name="Java_Projects" />
@@ -152,6 +154,17 @@
           <url>file://$PROJECT_DIR$/work/Example.java</url>
           <line>5</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/binarysearch/FindFirstAndLast.java</url>
+          <line>14</line>
+          <placement>INTER_LINE</placement>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/binarysearch/Mountain.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/binarysearch/FindCharNext.java</url>

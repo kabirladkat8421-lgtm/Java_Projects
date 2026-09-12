@@ -41,6 +41,9 @@
     &quot;accountId&quot;: &quot;3324f9b8-c7f5-43f9-94da-7fdc8c4fa36e&quot;
   }
 }</component>
+  <component name="HttpClientOnboardingState"><![CDATA[{
+  "isOnboardingCommentShown": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -63,6 +66,7 @@
     "Application.Floor.executor": "Run",
     "Application.GetTotalOftargate.executor": "Run",
     "Application.InfiniteArrayFindElement.executor": "Run",
+    "Application.Mountain.executor": "Run",
     "Application.OrderAgnosticBS.executor": "Run",
     "Application.Reverse.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -160,16 +164,10 @@
           <placement>INTER_LINE</placement>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
-          <url>file://$PROJECT_DIR$/binarysearch/InfiniteArrayFindElement.java</url>
-          <line>3</line>
-          <placement>INTER_LINE</placement>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/binarysearch/InfiniteArrayFindElement.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="16" />
+          <url>file://$PROJECT_DIR$/binarysearch/Mountain.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/binarysearch/FindCharNext.java</url>
@@ -179,15 +177,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/binarysearch/InfiniteArrayFindElement.java</url>
-          <line>9</line>
-          <properties class="binarysearch.InfiniteArrayFindElement" method="getRange">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

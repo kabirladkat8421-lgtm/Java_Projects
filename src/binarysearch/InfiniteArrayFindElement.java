@@ -11,7 +11,7 @@ public class InfiniteArrayFindElement {
     {
         int start=0;//start point of Array
         int end=1;//end point of Array
-        while(target>arr[end])//it's true until target>arr[end] end value will unitl it's false
+        while(target>arr[end])//it's true until target>arr[end] end value will change unitl it's false
         {
             int temp=end+1;//stroing end value in temp
             end=end+(end-start+1)*2; //end value is being double
